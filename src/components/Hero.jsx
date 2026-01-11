@@ -85,7 +85,7 @@ const Hero = () => {
       </div>
 
       {/* Main Content */}
-      <div className="container-custom relative z-20 px-4 sm:px-6 lg:px-8 py-16 md:py-24 lg:py-32">
+      <div className="container-custom relative z-20 px-4 sm:px-6 lg:px-8 py-48 md:py-24 lg:py-64">
         <motion.div
           initial="hidden"
           animate="visible"
